@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://superb-jalebi-09f379.netlify.app/)
+- Solution URL: [Solution URL](https://github.com/adebimpecole/fylo-dark-theme-landing-page.git)
+- Live Site URL: [Live site URL](https://superb-jalebi-09f379.netlify.app/)
 
 ## My process
 
